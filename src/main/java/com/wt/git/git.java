@@ -1,7 +1,7 @@
 package com.wt.git;
 
-import com.sun.scenario.effect.impl.sw.java.JSWBlend_SRC_OUTPeer;
-import org.w3c.dom.ls.LSOutput;
+
+
 
 public class git {
     public static void main(String[] args) {
@@ -14,5 +14,6 @@ public class git {
         System.out.println("hot-fix git");
         System.out.println("push commit git");
         System.out.println("pull commit git");
+        System.out.println("gitee commit git");
     }
 }
