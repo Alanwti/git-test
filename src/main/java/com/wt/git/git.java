@@ -13,5 +13,6 @@ public class git {
         System.out.println("master git");
         System.out.println("hot-fix git");
         System.out.println("push commit git");
+        System.out.println("pull commit git");
     }
 }
